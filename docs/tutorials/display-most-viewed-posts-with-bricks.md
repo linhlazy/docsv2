@@ -65,7 +65,7 @@ Go back to the list of posts, and you will see the new column appear.
 
 The number of this column is the number of the posts view. Based on this number, we’ll choose which one has the most views and display it in the section.
 
-## 4. Creating the section
+## 4. Creating the section for most viewed posts
 
 Now, edit the homepage with **Bricks Builder**.
 
@@ -103,7 +103,7 @@ The last one is that we should limit the number of posts displayed in the sectio
 
 ![Set the number of posts you want to show in the Post per page section.](https://i.imgur.com/o6pZ9P1.png)
 
-### 4.2 Displaying the restaurant’s information
+### 4.2 Displaying the post’s information
 
 Now, it's time to display the information for each restaurant.
 
